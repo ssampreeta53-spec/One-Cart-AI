@@ -5,7 +5,7 @@ An AI-powered shopping assistant that compares products across platforms and rec
 ---
 
 ## 🔗 Live App
-👉 https://your-app-link-here
+👉https://smart-cart-81.preview.emergentagent.com
 
 ---
 
