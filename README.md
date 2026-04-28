@@ -10,7 +10,7 @@ An AI-powered shopping assistant that compares products across platforms and rec
 ---
 
 ## 🎬 Demo Video
-👉 https://your-video-link-here
+👉 https://drive.google.com/drive/folders/1Id98xINgXl3NCfFEbS_DA9dCZK_cN7gm
 
 ---
 
