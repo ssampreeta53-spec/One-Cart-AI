@@ -15,7 +15,7 @@ An AI-powered shopping assistant that compares products across platforms and rec
 ---
 
 ## 📂 Prototype (MVP)
-👉 https://your-drive-link-here
+👉https://drive.google.com/drive/folders/105gtULEFtvwFw_onTjrk489rTvrFoFOn
 
 ---
 
